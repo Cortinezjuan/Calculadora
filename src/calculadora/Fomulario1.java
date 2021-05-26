@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author martin
+ * @author Juanjo
  */
 public class Fomulario1 extends javax.swing.JFrame implements ActionListener {
 
